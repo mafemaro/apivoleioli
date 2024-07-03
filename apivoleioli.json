@@ -1,0 +1,76 @@
+{
+  "times": [
+    {
+      "nome": "Brasil",
+      "ano_fundacao": 1951,
+      "cidade": "Rio de Janeiro",
+      "tecnico": "José Roberto Guimarães",
+      "jogadoras": [
+        {"nome": "Tandara Caixeta", "posicao": "Oposta", "numero_camisa": 14},
+        {"nome": "Gabriela Guimarães", "posicao": "Ponta", "numero_camisa": 10},
+        {"nome": "Carol Gattaz", "posicao": "Central", "numero_camisa": 1},
+        {"nome": "Camila Brait", "posicao": "Líbero", "numero_camisa": 18},
+        {"nome": "Ana Carolina da Silva", "posicao": "Central", "numero_camisa": 15},
+        {"nome": "Rosamaria Montibeller", "posicao": "Ponta", "numero_camisa": 7},
+        {"nome": "Macris Carneiro", "posicao": "Levantadora", "numero_camisa": 3},
+        {"nome": "Roberta Ratzke", "posicao": "Levantadora", "numero_camisa": 9},
+        {"nome": "Natália Pereira", "posicao": "Ponta", "numero_camisa": 12},
+        {"nome": "Sheilla Castro", "posicao": "Oposta", "numero_camisa": 13}
+      ]
+    },
+    {
+      "nome": "Polônia",
+      "ano_fundacao": 1947,
+      "cidade": "Varsóvia",
+      "tecnico": "Jacek Nawrocki",
+      "jogadoras": [
+        {"nome": "Malwina Smarzek", "posicao": "Oposta", "numero_camisa": 13},
+        {"nome": "Martyna Grajber", "posicao": "Ponta", "numero_camisa": 7},
+        {"nome": "Zuzanna Efimienko", "posicao": "Central", "numero_camisa": 10},
+        {"nome": "Maria Stenzel", "posicao": "Líbero", "numero_camisa": 9},
+        {"nome": "Joanna Wolosz", "posicao": "Levantadora", "numero_camisa": 3},
+        {"nome": "Magdalena Stysiak", "posicao": "Oposta", "numero_camisa": 14},
+        {"nome": "Katarzyna Skorupa", "posicao": "Levantadora", "numero_camisa": 8},
+        {"nome": "Agnieszka Kakolewska", "posicao": "Central", "numero_camisa": 11},
+        {"nome": "Marlena Kowalewska", "posicao": "Levantadora", "numero_camisa": 5},
+        {"nome": "Klaudia Alagierska", "posicao": "Central", "numero_camisa": 6}
+      ]
+    },
+    {
+      "nome": "Japão",
+      "ano_fundacao": 1951,
+      "cidade": "Tóquio",
+      "tecnico": "Kumi Nakada",
+      "jogadoras": [
+        {"nome": "Sarina Koga", "posicao": "Ponta", "numero_camisa": 2},
+        {"nome": "Ai Kurogo", "posicao": "Ponta", "numero_camisa": 5},
+        {"nome": "Mako Kobata", "posicao": "Líbero", "numero_camisa": 11},
+        {"nome": "Yuki Ishii", "posicao": "Ponta", "numero_camisa": 6},
+        {"nome": "Miyu Nagaoka", "posicao": "Oposta", "numero_camisa": 12},
+        {"nome": "Erika Araki", "posicao": "Central", "numero_camisa": 3},
+        {"nome": "Risa Shinnabe", "posicao": "Ponta", "numero_camisa": 8},
+        {"nome": "Mai Okumura", "posicao": "Central", "numero_camisa": 7},
+        {"nome": "Koyomi Tominaga", "posicao": "Levantadora", "numero_camisa": 4},
+        {"nome": "Haruka Miyashita", "posicao": "Levantadora", "numero_camisa": 10}
+      ]
+    },
+    {
+      "nome": "Quênia",
+      "ano_fundacao": 1985,
+      "cidade": "Nairóbi",
+      "tecnico": "Paul Bitok",
+      "jogadoras": [
+        {"nome": "Mercy Moim", "posicao": "Ponta", "numero_camisa": 1},
+        {"nome": "Jane Wacu", "posicao": "Levantadora", "numero_camisa": 7},
+        {"nome": "Leonida Kasaya", "posicao": "Ponta", "numero_camisa": 8},
+        {"nome": "Brackcides Khadambi", "posicao": "Central", "numero_camisa": 9},
+        {"nome": "Edith Wisa", "posicao": "Central", "numero_camisa": 10},
+        {"nome": "Aggripina Kundu", "posicao": "Líbero", "numero_camisa": 11},
+        {"nome": "Sharon Chepchumba", "posicao": "Oposta", "numero_camisa": 12},
+        {"nome": "Emmaculate Chemtai", "posicao": "Central", "numero_camisa": 3},
+        {"nome": "Lorine Chebet", "posicao": "Levantadora", "numero_camisa": 4},
+        {"nome": "Ruth Jepngetich", "posicao": "Ponta", "numero_camisa": 6}
+      ]
+    }
+  ]
+}
