@@ -1,10 +1,12 @@
 {
   "times": [
     {
+      "id": 1,
       "nome": "Brasil",
       "ano_fundacao": 1951,
       "cidade": "Rio de Janeiro",
       "tecnico": "José Roberto Guimarães",
+      "ranking": 2,
       "jogadoras": [
         {"nome": "Tandara Caixeta", "posicao": "Oposta", "numero_camisa": 14},
         {"nome": "Gabriela Guimarães", "posicao": "Ponta", "numero_camisa": 10},
@@ -19,10 +21,12 @@
       ]
     },
     {
+      "id": 2,
       "nome": "Polônia",
       "ano_fundacao": 1947,
       "cidade": "Varsóvia",
       "tecnico": "Jacek Nawrocki",
+      "ranking": 9,
       "jogadoras": [
         {"nome": "Malwina Smarzek", "posicao": "Oposta", "numero_camisa": 13},
         {"nome": "Martyna Grajber", "posicao": "Ponta", "numero_camisa": 7},
@@ -37,10 +41,12 @@
       ]
     },
     {
+      "id": 3,
       "nome": "Japão",
       "ano_fundacao": 1951,
       "cidade": "Tóquio",
       "tecnico": "Kumi Nakada",
+      "ranking": 6,
       "jogadoras": [
         {"nome": "Sarina Koga", "posicao": "Ponta", "numero_camisa": 2},
         {"nome": "Ai Kurogo", "posicao": "Ponta", "numero_camisa": 5},
@@ -55,10 +61,12 @@
       ]
     },
     {
+      "id": 4,
       "nome": "Quênia",
       "ano_fundacao": 1985,
       "cidade": "Nairóbi",
       "tecnico": "Paul Bitok",
+      "ranking": 19,
       "jogadoras": [
         {"nome": "Mercy Moim", "posicao": "Ponta", "numero_camisa": 1},
         {"nome": "Jane Wacu", "posicao": "Levantadora", "numero_camisa": 7},
