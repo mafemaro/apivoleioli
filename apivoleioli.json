@@ -3,7 +3,7 @@
     {
       "id": 1,
       "nome": "Brasil",
-      "url": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg",
+      "bandeira": "https://s1.static.brasilescola.uol.com.br/be/conteudo/images/2-bandeira-do-brasil.jpg",
       "ano_fundacao": 1951,
       "cidade": "Rio de Janeiro",
       "tecnico": "José Roberto Guimarães",
@@ -24,6 +24,7 @@
     {
       "id": 2,
       "nome": "Polonia",
+      "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Flag_of_Poland.svg/800px-Flag_of_Poland.svg.png",
       "ano_fundacao": 1947,
       "cidade": "Varsovia",
       "tecnico": "Jacek Nawrocki",
@@ -44,6 +45,7 @@
     {
       "id": 3,
       "nome": "Japao",
+      "bandeira": "https://s4.static.brasilescola.uol.com.br/be/2022/11/bandeira-do-japao.jpg",
       "ano_fundacao": 1951,
       "cidade": "Toquio",
       "tecnico": "Kumi Nakada",
@@ -64,6 +66,7 @@
     {
       "id": 4,
       "nome": "Quenia",
+      "bandeira": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Kenya.svg/640px-Flag_of_Kenya.svg.png",
       "ano_fundacao": 1985,
       "cidade": "Nairobi",
       "tecnico": "Paul Bitok",
